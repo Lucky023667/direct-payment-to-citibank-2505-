@@ -5,7 +5,123 @@
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            Preamble
+          A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q
+1
+Client Name	Invoice #	Date Issued	Invoice Status	Date Paid	Item Name	Item Description	Rate	Quantity	
+Discount Percentage
+Line Subtotal	Tax 1 Type	Tax 1 Amount	Tax 2 Type	Tax 2 Amount	Line Total	Currency
+2
+BBLGB	1	2023-03-16	paid	2023-03-19	Help please	ACH payment	900000000	12345	0	11110500000000	900000000000	900000000000		0	11110500000000	USD
+3
+84106768	2	2023-03-16	paid	2023-03-16		
+ACH transfer to my account
+98011.4533	47585255	0	4663899998201	900000000000	90000000000088	freeze freeze	0	4663899998201	USD
+4
+202393506	13	2023-03-19	paid	2023-03-19	
+ACH payment to direct deposit
+985700000	12	0	11828400000	8900000000000	9000000000000	freeze	0	1.18E+26	USD
+5
+NEW BUILDING COMPANY
+20	2023-03-20	paid	2023-03-20	
+ACH payment to direct deposit
+985700000	124	0	122226800000	9000000009988	90000000088888	freeze	0	
+122226800000000888800008
+USD
+6
+301125057662	3	2023-03-16	paid	2023-03-19	
+ACH payment to direct deposit
+985700000	13458	0	13265550600000	90000000088800	90000000008888	freeze	0	13265550600000	USD
+7
+New York City	4	2023-03-13	paid	2023-03-17	Alex Vasquez	
+School and hospitals in NYC
+98547008	12	0	1182564096	
+90000000. 000999
+90000000888888	freeze	0	1182564096	USD
+8
+New York City	11	2023-03-18	paid	2023-03-18	Help please	ACH payment	900000000	9888	0	8899200000000	90000000000808	98000000000008	freeze	0	8899200000000	USD
+9
+hotel 31 Moxy Holiday inn hotel centence
+14	2023-03-19	paid	2023-03-19	
+ACH payment to direct deposit
+985700000	12	0	11828400000	9000000000000	90000000000088	freeze	0	
+1182840000000888888800000000
+USD
+10
+793990384051	5	2023-03-18	paid	2023-03-18	Help please	ACH payment	9000000	157854	0	1420686000000	900000000000	900888888889999	freeze	0	1420686000000	USD
+11
+United States government
+10	2023-03-18	paid	2023-03-18	
+ACH payment to direct deposit
+7857000	157889	0	1240533873000	9000000000000	900008888808889	freeze	0	1240533873000	USD
+12
+TD Chase cash app paypl direct deposit to account
+6	2023-03-18	paid	2023-03-19	
+Direct deposit to account
+900000000	1146	0	1031400000000	
+90000000000....98
+90000000000000	freeze	0	1031400000000	USD
+13
+TD Chase cash app paypl direct deposit to account
+8	2023-03-18	paid	2023-03-18	Help please	ACH payment	900000000	156	0	140400000000	90000000000888	900000000000000	freeze	0	
+1404000000000000008000
+USD
+14
+393857330414	7	2023-03-18	paid	2023-03-18	
+ACH payment to direct deposit
+985700000	1	0	985700000	900800000000000	90000000000088	freeze	0	
+9857000000000000..9.9
+USD
+15
+Cash app PayPal bank Citibank first priority
+7	2023-03-18	paid	2023-03-18	Alex Vasquez	
+School and hospitals in NYC
+98547008	13677	0	1347827428416	9000000000000	90000000000000	freeze	0	1347827428416	USD
+16
+1283411932818 15100068811729 124303162 124303162 021000021 202693506
+9	2023-03-18	paid	2023-03-19	
+ACH payment to direct deposit
+985700	134677	0	132751118900	9000000000000	90000000000000	freeze	0	1.33E+20	USD
+17
+685365855	17	2023-03-19	paid	2023-03-19	
+ACH payment to direct deposit
+985700	134677	0	132751118900	90000008888808	900000000000000	freeze	0	1.33E+18	USD
+18
+124303120	12	2023-03-19	paid	2023-03-19	
+dennisrobertson263@gmail.com
+ACH payment	10000000000	123	0	1230000000000	90000000888880	90000000000000	freeze	0	1230000000000	USD
+19
+united bank chime Dave control mission lance lily l
+15	2023-03-19	paid	2023-03-19	
+ACH payment to direct deposit
+985700000	1326	0	1307038200000	90000000000800	9000000000000	freeze	0	1.31E+20	USD
+20
+5262190152074416 https://drive.google.com/file/d/12gfrZIShXOgHul0pFOtcg7-AhXvEH_Bc/view?usp=drivesdk
+16	2023-03-19	paid	2023-03-19	
+ACH payment to direct deposit
+Direct deposit	985700000	1	0	985700000	9000000000000	90000000000000	freeze	0	9.86E+20	USD
+21
+every person in united States get direct deposit week in there account
+18	2023-03-20	paid	2023-03-20	
+ACH payment to direct deposit
+Payment for direct deposit
+98570	23100	60888				freeze	0	2.28E+24	USD
+22
+7 Eleven
+https://drive.google.com/file/d/12gfrZIShXOgHul0pFOtcg7-AhXvEH_Bc/view?usp=drivesdk
+19	2023-03-20	paid	2023-03-20	Help please	ACH payment	9000000	1354452	0	12190068000000	90000000000008	900000000000000	freeze	0	1.22E+24	USD
+23
+269123638695	19	2023-03-20	paid	
+https://drive.google.com/file/d/12gfrZIShXOgHul0pFOtcg7-AhXvEH_Bc/view?usp=drivesdk
+direct deposit		9.00E+15	9.00E+29	9E+25	900000000000000	9000000000000	
+90000000000pppp0
+blocked freeze		
+178644479900532680000
+24
+793990384051
+https://drive.google.com/file/d/12gfrZIShXOgHul0pFOtcg7-AhXvEH_Bc/view?usp=drivesdk
+19	2023-03-20	paid	
+https://drive.google.com/file/d/12gfrZIShXOgHul0pFOtcg7-AhXvEH_Bc/view?usp=drivesdk
+direct deposit	direct deposit	9000000000000	9000000000000	9000000000000	90000000000000	900000000000000	9.00E+20	blocked freeze		865257899	                  Preamble
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
